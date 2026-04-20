@@ -1,0 +1,25 @@
+# Maven
+target/
+*.jar
+*.war
+
+# Gradle
+.gradle/
+build/
+.gradle-dist/
+
+# Local dependencies
+.m2/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Node
+node_modules/
+
+# Zip files
+*.zip
